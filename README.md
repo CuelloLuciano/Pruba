@@ -1,2 +1,2 @@
-# Pruba
+# Prueba
 primer repositorio
